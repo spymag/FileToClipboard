@@ -19,12 +19,6 @@ def ReadFileLines(fname):
 #print ReadFileLines(fname)[7]
 #print len(str(outreach))
 
-#remove spaces
-for i in range(0,len(ReadFileLines(fname))):
-    
-   noSpaces.append(ReadFileLines(fname)) 
-
-
 #append lines into the filtered list
 for i in range(0,len(ReadFileLines(fname))):
 
