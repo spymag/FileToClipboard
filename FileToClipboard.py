@@ -1,4 +1,4 @@
-import inspect, os
+import os
 
 #ask user to give the file location
 #(uncoment when code is ready)fname = raw_input("Give file location: ")
