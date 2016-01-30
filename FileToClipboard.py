@@ -50,8 +50,3 @@ with open(ofile, "w") as text_file:
         
 print(" %s matches found! and copied to %s" % (str(len(filtered)), locations))
 text_file.close()
-
-
-
-
-
